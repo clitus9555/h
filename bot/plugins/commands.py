@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚠️JOIN CHANNEL⚠️', url="https://t.me/joinchat/nppwyzxMr8NhN2M9"
+                                    '⚠️ JOIN CHANNEL ⚠️', url="https://t.me/joinchat/s3MC2Q0hHVw0Y2U9"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚠️JOIN CHANNEL⚠️', url="https://t.me/joinchat/nppwyzxMr8NhN2M9"
+                                    '⚠️ JOIN CHANNEL ⚠️', url="https://t.me/joinchat/s3MC2Q0hHVw0Y2U9"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚠️JOIN CHANNEL⚠️', url="https://t.me/joinchat/nppwyzxMr8NhN2M9"
+                                    '⚠️ JOIN CHANNEL ⚠️', url="https://t.me/joinchat/s3MC2Q0hHVw0Y2U9"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📣CHANNEL', url='https://t.me/joinchat/nppwyzxMr8NhN2M9'),
-        InlineKeyboardButton('GROUP💬', url ='http://t.me/MGmoviegram')
+        InlineKeyboardButton('📣CHANNEL', url='https://t.me/joinchat/s3MC2Q0hHVw0Y2U9'),
+        InlineKeyboardButton('GROUP💬', url ='https://t.me/cinehut')
     ],[
-        InlineKeyboardButton('OWNER✨', url='https://t.me/Wafikh')
+        InlineKeyboardButton('𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ✨', url='https://t.me/Wafikh')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
