@@ -41,10 +41,9 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b>@MGMOVIEGRAM</b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>○ ᴍʏ ɴᴀᴍᴇ</b> : <code> Auto Filter Bot</code>
     
 <b>○ ғʀᴀᴍᴇᴡᴏʀᴋ</b> : ᴘʏʀᴏɢʀᴀᴍ
 
