@@ -43,7 +43,7 @@ class Translation(object):
             
 """
     
-    ABOUT_TEXT = """<b>○ ᴍʏ ɴᴀᴍᴇ</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>○ ᴍʏ ɴᴀᴍᴇ</b> : <code> ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ</code>
     
 <b>○ ғʀᴀᴍᴇᴡᴏʀᴋ</b> : ᴘʏʀᴏɢʀᴀᴍ
 
