@@ -49,7 +49,7 @@ class Translation(object):
 
 <b>○ ʟᴀɴɢᴜᴀɢᴇ</b> : ᴘʏᴛʜᴏɴ
 
-<b>○ ᴄʀᴇᴀᴛᴏʀ</b> : <b><i><a href="https://t.me/Wafikh">🄿🅁🄾🄵🄴🅂🅂🄾🅁</a></i></b>
+<b>○ ᴄʀᴇᴀᴛᴏʀ</b> : <b><i><a href="https://t.me/Angelamego">Joker😊</a></i></b>
 
 <b>○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</b> : 🔐
 """
